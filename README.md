@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Ricci Gian Maria and I'm a passionate developer since I've got my first computer (Commodore Vic 20). 
+
+- 📫 You can reach me at: alkampfer [at] nablasoft.com. 
 <!--
 **alkampfergit/alkampfergit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
